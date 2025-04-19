@@ -7,7 +7,7 @@ This is my personal repository - a growing collection of learning resources, cre
 ---
 
 ## 📚 Table of Contents
-- [About This Repository](#about-this-repository)
+- [✨ About This Repository](#about-this-repository)
 - [📌 Projects](#projects)
 - [🛠️ Tools I Use](#tools-i-use)
 - [📖 Usage](#usage)
